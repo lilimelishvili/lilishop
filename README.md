@@ -1,2 +1,3 @@
 # lilishop
-Shop with wordpress woocommerce elementor builder
+
+Shop with wordpress woocommerce elementor builder.
